@@ -1,18 +1,17 @@
 body {
     background-image: url(./images/background.jpg);
     background-size: cover;
-    
 }
 
 h1 {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 120px;
     font-size: 75px;
     border-style: dashed;
-    padding: 40px;
+    padding: 30px;
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(255, 204, 102);
+    background-color: rgb(215, 199, 179)
 }
 
 li {
@@ -24,10 +23,18 @@ li {
     font-family: 'Poppins', sans-serif;
 }
 
-a {
+.recipes {
     text-decoration: none;
-    background-color: rgb(255,255,255);
+    background-color: rgb(215, 199, 179);
     padding: 10px 20px 10px 20px;
     border-style: dashed;
     color: rgb(0, 0, 0);
+}
+
+footer {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    width: 100%;
+    line-height: 1.2;
 }

@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(251, 250, 243);
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    font-size: 75px;
+    border-style: dashed;
+    padding: 30px;
+    background-color: rgb(215, 199, 179);
+}
+
+img {
+    width: 35%;
+    float: left;
+    margin-right: 20px;
+}
+
+h2 {
+    margin-top: 43px;
+    font-size: 60px;
+    margin-bottom: 3px;
+}
+
+p {
+    font-size: 30px;
+    margin-right: 40px ;
+    margin-bottom: 160px;
+}
+
+li {
+    font-size: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+    line-height: 60px;
+}
+
+.steps {
+    margin-top: 70px;
+}
+
+footer {
+    margin-top: 30px;
+    float: right;
+}
+
+.sausage {
+    width: 30%;
+}
+
+h3 {
+    font-size: 45px;
+}
